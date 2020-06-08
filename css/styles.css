@@ -1,0 +1,30 @@
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: wigwag-bold, sans-serif;
+    background-color: #add;
+}
+
+h1 {
+    font-size: 4rem;
+    padding: 1rem;
+}
+
+h2 {
+    color: white;
+    font-size: 2.4rem;
+    padding: 4rem;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+}
